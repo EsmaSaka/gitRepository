@@ -1,0 +1,28 @@
+Git Push
+push to local:
+push to GitHub
+ Git PULL
+ clone project GitHub
+ import into eclipse
+
+ verify the git installation 
+ open powershel
+ git --version
+
+git config --list
+git config --global user.name"your github username"
+git config --global user.email your github
+
+How to crate a text file after we created a folder?
+1-open sublime
+2-enter some text
+3.5-select the folder on desktop
+3.go to file and save
+4.name as"resu.txt"
+
+git init creates a repo and done once for a repo
+git status check the folders status
+
+
+untracked means git can see it but not recording
+git add .  adds all files in a folder so that git remember

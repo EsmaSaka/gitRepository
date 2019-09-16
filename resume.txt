@@ -1,3 +1,4 @@
 name:kunka
 ocuupation:admira
-objective: to be admired and remembered
+objective: to be admired and remembered esbf
+1b9f357 hash for code
