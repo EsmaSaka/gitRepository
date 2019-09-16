@@ -28,3 +28,5 @@ untracked means git can see it but not recording
 git add .  adds all files in a folder so that git remember
 
 git commit -m "first commit"
+
+git push -u origin master
