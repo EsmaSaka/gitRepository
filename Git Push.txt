@@ -32,3 +32,11 @@ git commit -m "first commit"
 git push -u origin master
 
 git log : shows all changes on powershel
+git clone: copy of online file to local
+
+import to eclipse
+general
+existing project into work space
+next
+root>>>> browse where the folder is //ls pwd
+users studio click on folder
